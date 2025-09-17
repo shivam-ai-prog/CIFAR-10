@@ -1,0 +1,5 @@
+tesnsorflow==2.12pu.0
+streamlit==1.27.2
+matplotlib
+protobuf==3.20.3
+numpy
